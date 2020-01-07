@@ -1,0 +1,2 @@
+include ':app', ':p0031firstproject', ':p0041basicviews', ':p0180constaintlayoutintro'
+rootProject.name='AS'
